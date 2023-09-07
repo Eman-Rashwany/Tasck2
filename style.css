@@ -1,0 +1,26 @@
+*{
+    margin: 5px;
+   
+
+}
+fieldset{
+    width: 600px;
+   
+}
+#Start{
+    border: 2px solid ;
+    border-radius: 4px;
+    background-color:coral;
+    padding: 10px;
+    color: bisque;
+    width: 100px;
+
+}
+#Score{
+    width: 170px;
+    border: 2px solid ;
+    border-radius: 4px;
+    background-color:rgb(36, 65, 4);
+    padding: 10px;
+    color:white;
+}
